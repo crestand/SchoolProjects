@@ -1,0 +1,10 @@
+Empty,4,4
+Empty,5,5
+Empty,4,5
+Empty,5,4
+Mirror,1,7
+Mirror,1,8
+Mirror,2,8
+Wood,7,1
+Wood,8,1
+Wood,8,2
